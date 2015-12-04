@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.phonegap.jmschool"
+        version   = "1.0.0">
+
+    <name>JM High School</name>
+
+    <description>Founded in 1936, JM High School is located in Civil Lines, Ganesh Nagar, Gondia</description>
+
+    <author href="http://phonegap.com" email="support@phonegap.com">
+        Ajit Moghe
+    </author>	
+
+
+	 <platform name="ios">
+		<icon src="icon.png" width="180" height="180" />
+	</platform>
+
+ 
+
+ 
+
+
+</widget>
